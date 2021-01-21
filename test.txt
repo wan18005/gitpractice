@@ -5,5 +5,11 @@ four
 five
 six
 
+<<<<<<< HEAD
 ready?
 Go!
+=======
+seven
+eight
+nine
+>>>>>>> 76537f058575a866ac4753fa9b0660cca31bb424
